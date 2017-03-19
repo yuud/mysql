@@ -1,2 +1,2 @@
-# mysql.github.io
+# mysql
 mysql实践学习文档
